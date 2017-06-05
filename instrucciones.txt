@@ -1,0 +1,23 @@
+Gravatar* Creación del proyecto, listo para descargar.
+
+* Requisitos antes de la configuración:
+
+1.- Es necesario tener instalado un servidor web en la máquina donde se va a instalar el proyecto del Códice de Dresde.
+2.- Es necesario tener instalado un servidor de base de datos Mysql para poder cargar la base de datos del Códice de Dresde.
+
+* Para configurar:
+1.- Crear una base de datos en tu servidor e importar la base de datos que viene en el proyecto (BaseDeDatos/BDCodice.sql)
+
+2.- Actualizar la base de datos que se importó, para que apunte a las URL nuevas de tu servidor, esto se hace por medio de las siguientes lineas de código, ejecutarlas en tu motor de base de datos, de preferencia de una por una:
+
+UPDATE wp_options SET option_value = REPLACE ( option_value, 'http://localhost:8888/CodiceDressdeWeb', 'aqui_va_la_url_de_tu_servidor' );
+UPDATE wp_posts SET guid = REPLACE ( guid, 'http://localhost:8888/CodiceDressdeWeb', 'aqui_va_la_url_de_tu_servidor' );
+UPDATE wp_posts SET post_content = REPLACE ( post_content, 'http://localhost:8888/CodiceDressdeWeb', 'aqui_va_la_url_de_tu_servidor' );
+UPDATE wp_postmeta SET meta_value = REPLACE ( meta_value, 'http://localhost:8888/CodiceDressdeWeb', 'aqui_va_la_url_de_tu_servidor' );
+
+3.- Una vez hecho lo anterior, al entrar a la URL de tu servidor se podrá ver ya corriendo el sitio web de Códice de Dresde.
+
+4.- Si deseas ingresar al escritorio de wordpress puedes hacerlo con los siguientes datos:
+en ruta_donde_instalaste_el_codice/wp-admin/ 
+
+con los datos usuario: admin, contraseña:1234
