@@ -1,0 +1,1631 @@
+
+/* --------------------------------------------------------
+/* ---- Responsive: 1920px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:2200px) {
+
+    .header {
+        max-width: 1820px;
+    }
+
+    .contenedorCentralCodice{
+        max-width: 1820px;
+    }
+
+    .container1{
+       max-width: 1820px;
+       height: 800px;
+    }
+
+    .container2{
+        width: 900px;
+    }
+
+     .container2X{
+        width: 600px;
+        height: 40px;
+    }
+
+
+    .FooterBottomCodice{
+        bottom: 0px;
+    }
+
+    .footerCodice {
+     bottom: 0px;
+    }
+
+
+    /* COMPARATIVA */
+
+    .container3_A{
+        height: 800px;
+    }
+
+    .container3_B{
+        height: 800px;
+    }
+
+} /* 1920 */
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: 1440px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:1440px) {
+
+    .header {
+        max-width: 1380px;
+    }
+
+    .contenedorCentralCodice{
+        max-width: 1380px;
+    }
+
+    .container1{
+       max-width: 1380px;
+       height: 700px;
+    }
+
+    .container2{
+        width: 900px;
+    }
+     .container2X{
+        width: 600px;
+        height: 40px;
+    }
+
+
+    .FooterBottomCodice{
+        bottom: 0px;
+    }
+
+
+    /* ----------------------------
+    /* ---- COMPARATIVA
+    -------------------------------*/
+    .container3_A{
+        height: 700px;
+    }
+
+    .container3_B{
+        height: 700px;
+    }
+
+
+    .BloqueNombresComparativa{
+        max-width: 1366px;
+        padding-left: 0px;
+    }
+
+
+    .contenedor_hotspots{
+        max-width: 1380px;
+    }
+
+
+
+
+} /* 1440px */
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: 1366px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:1366px) {
+
+    .header {
+        max-width: 1280px;
+    }
+
+    .contenedorCentralCodice{
+        max-width: 1280px;
+    }
+
+    .container1{
+       max-width: 1280px;
+       height: 500px;
+    }
+
+    .container2{
+        width: 700px;
+    }
+
+    .container2X{
+        width: 600px;
+        height: 40px;
+    }
+
+
+    .FooterBottomCodice{
+        bottom: 0px;
+    }
+
+     /* ----------------------------
+    /* ---- COMPARATIVA
+    -------------------------------*/
+    .container3_A{
+        height: 500px;
+    }
+
+    .container3_B{
+        height: 500px;
+    }
+
+    .BloqueNombresComparativa{
+        max-width: 1280px;
+    }
+
+
+    .contenedor_hotspots{
+        max-width: 1280px;
+    }
+
+
+    
+} /* 1366px */
+
+@media screen and (max-width: 1366px) and (min-height: 768px) { 
+
+.FooterBottomCodice {
+        bottom: 10%;
+    }
+
+
+}
+
+
+@media screen and (max-width: 1280px) and (min-height: 900px) { 
+    .FooterBottomCodice {
+        bottom: 15%;
+    }
+}
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: 1280px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:1280px) {
+
+    .header {
+        max-width: 1280px;
+    }
+
+    .contenedorCentralCodice{
+        max-width: 1280px;
+    }
+
+    .container1{
+       max-width: 1280px;
+       height: 500px;
+
+    }
+
+    .container2{
+        width: 600px;
+    }
+
+     .container2X{
+        width: 600px;
+        height: 40px;
+    }
+
+
+    .ContenedorlogosEmpresas{
+        width: 700px;
+    }
+
+
+} /* 1280px */
+
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: 1280px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:1152px) {
+
+    .container1{
+       height: 500px;
+    }
+
+
+    .footerCodice  > .BloqueA{
+        font-size: 14px;
+    }
+
+    .footerCodice  > .BloqueB{
+        font-size: 14px;
+    }
+
+    .footerCodice  > .BloqueA a{
+        font-size: 14px;
+    }
+
+    .footerCodice  > .BloqueB a{
+        font-size: 14px;
+    }
+
+
+    .contenedor_hotspots > .Contenedor_interior > .BloqueSeccionB{
+        width: 55%;
+        margin-left: 20px;
+    }
+
+
+    .contenedor_hotspots > .Contenedor_interior > .imagen_hotspot_B {
+        margin-left: 30px;
+    }
+
+    .btn_to_creditos{
+      right: 20px;
+     top: -80px;
+    }
+
+
+} /* 1280px */
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: 1280px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:1024px) {
+
+    
+
+    .contenedorCentralCodice{
+        max-width: 1024px;
+    }
+
+    .container1{
+       max-width: 1024px;
+       height: 600px;
+    }
+
+    .container2{
+        width: 600px;
+    }
+
+     .container2X{
+        width: 600px;
+        height: 40px;
+    }
+
+
+    /* ----------------------------
+    /* ---- COMPARATIVA
+    -------------------------------*/
+    .container3_A{
+        height: 600px;
+    }
+
+    .container3_B{
+        height: 600px;
+    }
+
+
+.contenedor_hotspots > .Contenedor_interior > .imagen_hotspot_B{
+    padding-top: 0px;
+    margin-left: 60px;
+}
+
+.contenedor_hotspots > .Contenedor_interior > .BloqueSeccionB{
+    width: 60%;
+    margin-left: 30px;
+}
+
+
+.contenedor_flechas_D{
+    margin-left: 40px;
+}
+
+
+.contenedor_hotspots > .Contenedor_interior > .contenido_D{
+    width: 60%;
+    padding-top: 0px;
+    margin-left: 40px;
+}
+
+
+
+.BloqueBullets_D{
+    margin-left: 40px !important;
+}
+
+.contenedor_hotspots > .Contenedor_interior > .imagen_hotspot_D{
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+
+
+
+} /* 1280px */
+
+
+ 
+/* --------------------------------------------------------
+/* ---- Responsive: 1280px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:1018px) {
+
+.contenedor_hotspots > .Contenedor_interior > .imagen_hotspot_B{
+    float: none;
+    margin: 0 auto;
+    padding-top: 0px;
+}
+
+.contenedor_hotspots > .Contenedor_interior > .BloqueSeccionB{
+    width: 80%;
+    float: none;
+    margin: 0 auto;
+}
+
+.contenedor_hotspots > .Contenedor_interior >  .BloqueSeccionB > .contenido{
+    font-size: 18px;
+    line-height: 26px;
+}
+
+
+.contenedor_flechas_D{
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+.contenedor_hotspots > .Contenedor_interior > .imagen_hotspot_D{
+    float: none;
+    position: relative;
+    margin: 0 auto;
+}
+
+.BloqueBullets_D{
+    width: 300px;
+    position: relative;
+    left: 0;
+    right: 0;
+    margin: 0 auto !important;
+    
+}
+.contenedor_hotspots > .Contenedor_interior > .contenido_D{
+    width: 80%;
+    margin: 0 auto;
+    float: none;
+    font-size: 18px;
+    line-height: 26px;
+
+}
+
+.contenedor_hotspots > .Contenedor_interior > .contenido_D p{
+    font-size: 18px;
+    line-height: 26px;
+}
+
+
+
+}/* 1018px */
+
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: 1000px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:1000px) {
+
+
+
+
+ .ContenedorVideos > .contenedor{
+    width: 85%;
+ }
+
+
+ .container1 {
+    max-width: 1024px;
+    height: 460px;
+}
+
+
+
+/* ----------------------------
+/* ---- COMPARATIVA
+-------------------------------*/
+.container3_A{
+    height: 460px;
+}
+
+.container3_B{
+    height: 460px;
+}
+
+
+
+.ContenedorlogosEmpresas{
+    width: 600px;
+     
+}
+
+
+
+}/* 1000px */
+
+
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: 840px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:880px) {
+
+
+.contenedorCentral{
+    max-width: 88%;
+    width: 100%;
+}
+
+
+.BibliotecasSeccion > .Seccion-Entrevistas > .SubBloques > .Textos{
+    width: 66%;
+}
+
+ 
+.BibliotecasSeccion > .Seccion-Entrevistas > .SubBloques > .Textos > .titulos {
+    font-family: Ubuntu-Medium-Italic;
+    font-size: 18px;
+    color: #1b807f;
+    text-align: center;
+    line-height: 18px;
+    margin-bottom: 10px;
+}
+
+.BibliotecasSeccion > .Seccion-Entrevistas > .SubBloques > .Textos > .descripcion {
+    font-family: Roboto-Regular;
+    font-size: 16px;
+    line-height: 23px;
+    color: #000000;
+}
+
+
+}/* 840px */
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: 840px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:830px) {
+
+.BibliotecasSeccion > .Seccion-Entrevistas > .SubBloques > .imagen {
+    width: 204px;
+    height: 115px;
+    overflow: hidden;
+    float: none;
+    margin: 0 auto;
+    margin-bottom: 10px; 
+}
+
+.BibliotecasSeccion > .Seccion-Entrevistas > .SubBloques > .Textos {
+    width: 95%;
+    float: none;
+    margin: 0 auto;
+}
+
+
+.btn_hipermedia{
+    width: 23px;
+    height: 20px;
+    position: absolute;
+    float: right;
+    top: 13px;
+    right: 42%;
+    background: url(../images/generales/hypermedia_off_movil.png);
+    background-size: 23px 20px;
+    cursor: pointer;
+}
+
+
+.btn_hipermedia:hover{
+     width: 23px !important;
+     height: 20px !important;
+     background: url("../images/generales/hypermedia_on_movil.png") !important; 
+     background-size: 23px 20px !important;
+}
+
+.btn_hipermedia_hover{
+     width: 23px !important; 
+     height: 20px !important;
+     background: url("../images/generales/hypermedia_on_movil.png") !important; 
+     background-size: 23px 20px !important;
+}
+
+.btn_hipermedia_on{
+    width: 23px !important; 
+     height: 20px !important;
+     background: url("../images/generales/hypermedia_on_movil.png") !important; 
+     background-size: 23px 20px !important;
+}
+
+
+
+
+.btn_materialidad {
+    width: 24px;
+    height: 20px;
+    position: absolute;
+    float: right;
+    top: 13px;
+    right: 60%;
+    background: url(../images/generales/materialidad_off_movil.png);
+    background-size: 24px 20px;
+    cursor: pointer;
+}
+
+
+.btn_materialidad:hover{
+    width: 24px !important;
+    height: 20px !important;
+    background: url("../images/generales/materialidad_on_movil.png") !important;
+    background-size: 24px 20px !important;
+
+}
+
+.btn_materialidad_hover{
+    width: 24px !important;
+    height: 20px !important;
+    background: url("../images/generales/materialidad_on_movil.png") !important;
+    background-size: 24px 20px !important;
+}
+
+.btn_materialidad_hover_on{
+    width: 24px !important;
+    height: 20px !important;
+    background: url("../images/generales/materialidad_on_movil.png") !important; 
+    background-size: 24px 20px !important;
+}
+
+
+.BarraNavegacion{
+    top: 37px;
+    width: 200px;
+    height: 28px;
+}
+
+.BarraNavegacion > .BloqueA{
+    font-size: 14px;
+}
+
+.BarraNavegacion > .BloqueB{
+    font-size: 14px;
+}
+
+
+.BarraNavegacionB{
+    width: 180px;
+    height: 28px;
+    top: 37px;
+}
+
+.BarraNavegacionB > .BloqueA{
+   font-size: 14px; 
+}
+
+.BarraNavegacionB > .BloqueB{
+   font-size: 14px; 
+}
+
+}/* 830px */
+
+/* --------------------------------------------------------
+/* ---- Responsive: 840px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:807px) {
+
+.hotspot_over{
+    display: none;
+}
+
+.select_augurio{
+    background: none;
+    font-weight: 100;
+}
+
+.contenedor_flechas{
+    width: 90%;
+    top: 15%;
+    height: 40px;
+    background: #bc4b4b;
+    z-index: 999;
+    display: none;
+}
+
+.contenedor_flechas_mobile{
+    width: 60%;
+    top: 0px;
+    height: 0px;
+    z-index: 0;
+    position: absolute;
+    left: 0;
+    right: 0;
+    display: block;
+    margin: 0 auto;
+}
+
+.contenedor_hotspots > .Contenedor_interior > .imagen_hotspot {
+    max-width: 100%;
+}
+
+
+.contenedor_hotspots > .Contenedor_interior > .imagen_hotspot img {
+    width: 100%;
+    height: auto;
+}
+
+.contenedor_hotspots > .btn_show_notas{
+    right: 5px;
+}
+
+.contenedor_hotspots > .btn_back{
+    left: 5px;
+}
+
+.contenedor_hotspots > .Contenedor_interior > .contenido{
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.contenedor_hotspots > .Contenedor_interior > .contenido p{
+   font-size: 18px;
+    line-height: 24px; 
+}
+
+
+
+
+.contenedor_hotspots > .Contenedor_interior > .imagen_hotspot_C{
+    max-width: 100%;
+    margin-bottom: 10px;
+    padding-top: 60px;
+}
+
+.contenedor_hotspots > .Contenedor_interior > .imagen_hotspot_C img{
+    width: 100%;
+    height: auto;
+}
+
+
+.contenedor_hotspots > .Contenedor_interior > .BloqueSeccionB > .Titulo{
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+
+
+
+/* STYLES PARA NOTAS */
+
+
+/* ---- SECCION NOTAS CONTENEDOR VER NOTA */
+
+.ContenedorDetalleNotas > .subcontenedor {
+    width: 92%;
+}
+
+/* ---- SECCION NOTAS UPDATE VER NOTA */
+.ContenedorUpdateNotas > .subcontenedor{
+    width: 92%;
+}
+
+.ContenedorUpdateNotas > .subcontenedor > .InformacionDatos > form   .BloqueA{
+    width: 52px;
+}
+
+.ContenedorUpdateNotas > .subcontenedor > .InformacionDatos > form  .BloqueB{
+    width: 317px;
+}
+
+.ContenedorUpdateNotas > .subcontenedor > .InformacionDatos > form   .BloqueC{
+    display: none;
+}
+
+.ContenedorUpdateNotas > .subcontenedor > .InformacionDatos > form   .BloqueG{
+    width: 95px;
+}
+
+.ContenedorUpdateNotas > .subcontenedor > .InformacionDatos > form   .BloqueF{
+    width: 95px;
+}
+
+.ContenedorUpdateNotas > .subcontenedor > .InformacionDatos > form   .BloqueD{
+    width: 71px;
+}
+
+.ContenedorUpdateNotas > .subcontenedor > .InformacionDatos > form   .BloqueEUpdate{
+    width: 220px;
+    margin-left: 10px;
+}
+
+
+
+/* ---- SECCION NOTAS AGREGAR NOTA */
+.ContenedorAddNotas > .subcontenedor{
+    width: 92%;
+    height: 560px;
+}
+
+.ContenedorAddNotas > .subcontenedor > .InformacionDatos > form .contenedorTexto{
+    height: 184px;
+    overflow: hidden;
+}
+.ContenedorAddNotas > .subcontenedor > .InformacionDatos > form .contenedorTexto textarea{
+    height: 184px;
+}
+
+.ContenedorAddNotas > .subcontenedor > .InformacionDatos > form   .BloqueA{
+    width: 52px;
+}
+
+.ContenedorAddNotas > .subcontenedor > .InformacionDatos > form  .BloqueB{
+    width: 317px;
+}
+
+.ContenedorAddNotas > .subcontenedor > .InformacionDatos > form   .BloqueC{
+    display: none;
+}
+
+.ContenedorAddNotas > .subcontenedor > .InformacionDatos > form   .BloqueG{
+    width: 95px;
+}
+
+.ContenedorAddNotas > .subcontenedor > .InformacionDatos > form   .BloqueF{
+    width: 95px;
+}
+
+.ContenedorAddNotas > .subcontenedor > .InformacionDatos > form   .BloqueD{
+    width: 71px;
+}
+
+.ContenedorAddNotas > .subcontenedor > .InformacionDatos > form   .BloqueE{
+    width: 220px;
+    margin-left: 10px;
+}
+
+
+.ContenedorAddNotas > .subcontenedor > .InformacionDatos > form .contenedorTexto textarea{
+    height: 184px;
+}
+ 
+
+
+ 
+
+ .contenedorNotFound > .subcontenedor{
+    width: 60%;
+ }
+
+ .contenedorNotFound > .subcontenedor > .titulo {
+    width: 100%;
+    height: auto;
+    font-family: Ubuntu-Light;
+    font-size: 20px;
+    color: #41403D;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.contenedorNotFound > .subcontenedor > .descripcion {
+    width: 100%;
+    height: auto;
+    font-family: "Roboto-Light";
+    font-size: 13px;
+    color: #000;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+}/* 807px */
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: 700px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:768px) {
+    .ContenedorDetalleNotas > .subcontenedor > .titulo_header > .Titulo{
+        max-width: 80%;
+        font-size: 18px;
+    }
+
+    .ContenedorDetalleNotas > .subcontenedor > .InformacionDatos >    .BloqueA{
+        width: 33px;
+    }
+
+    .ContenedorDetalleNotas > .subcontenedor > .InformacionDatos > .BloqueD{
+        width: 76px;
+    }
+
+    .ContenedorDetalleNotas > .subcontenedor > .InformacionDatos > .BloqueG{
+        width: 108px;
+    }
+
+    .ContenedorDetalleNotas > .subcontenedor > .InformacionDatos > .BloqueC{
+        width: 96px;
+    }
+
+
+    .ContenedorDetalleNotas > .subcontenedor > .InformacionDatos >  .BloqueE_Detalle{
+        width: 235px;
+        height: 32px;
+        overflow: hidden;
+    }
+
+
+    .creditos_images > .Bloques img {
+        width: 85%;
+    }
+
+}/* 700px */
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: 732px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:732px) {
+.contenedorMovilSistemas{
+    display: block;
+}
+
+
+
+
+}/* 732px */
+
+/* --------------------------------------------------------
+/* ---- Responsive: iPad in landscape
+-------------------------------------------------------- */
+
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : landscape)
+and (-webkit-min-device-pixel-ratio: 1)  { 
+
+    .container1 {
+     max-width: 1024px;
+     height: 550px;
+    }
+
+
+     /* ----------------------------
+    /* ---- COMPARATIVA
+    -------------------------------*/
+    .container3_A{
+        height: 550px;
+    }
+
+    .container3_B{
+        height: 550px;
+    }
+
+
+}
+
+
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: iPad in portrait
+-------------------------------------------------------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : portrait) 
+and (-webkit-min-device-pixel-ratio: 1)  { 
+
+.container1 {
+    max-width: 1024px;
+    height: 680px;
+}
+
+
+
+.FooterBottomCodice {
+    bottom: 10%;
+}
+
+
+/* ----------------------------
+/* ---- COMPARATIVA
+-------------------------------*/
+.container3_A{
+    height: 680px;
+}
+
+.container3_B{
+    height: 680px;
+}
+
+
+} /* iPad in portrait */
+
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: iPhone 6 Landscape
+-------------------------------------------------------- */
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 667px) 
+and (orientation : landscape) {  
+
+    .container1 {
+        width: 100%;
+        height: 250px;
+    }
+    
+    
+    .FooterBottomCodice {
+        height: 85px;
+        bottom: 0%;
+    }
+
+    .container2 {
+        width: 400px;
+        top: 0px;
+    }
+
+     .container2X{
+        width: 600px;
+        height: 40px;
+        top: 0;
+    }
+
+    .footerCodice{
+        height: 30px;
+    }
+
+    .footerCodice > .bloques{
+        font-size: 14px;
+    }
+
+    /* ----------------------------
+    /* ---- COMPARATIVA
+    -------------------------------*/
+    .container3_A{
+        height: 250px;
+    }
+    
+    .container3_B{
+        height: 250px;
+    }
+
+
+    .BloqueNombresComparativa{
+        font-size: 12px;   
+        display: none;
+    }
+    .footerCodice  > .BloqueA{
+         font-size: 13px;
+    }
+
+
+    .footerCodice  > .BloqueA a{
+            font-size: 13px;
+    }
+
+    .footerCodice  > .BloqueB{
+         font-size: 13px;
+    }
+
+    .footerCodice  > .BloqueB a{
+         font-size: 13px;
+    }
+
+
+    /* ----------------------------
+    /* ---- HIPERMEDIA
+    -------------------------------*/
+
+    .contenedor_nav_hipermedia{
+        height: 20px;
+        font-size: 15px;
+        bottom: 10px;
+    }
+
+    .contenedor_nav_hipermedia > .BloqueB {
+        height: 20px;
+    }
+
+    .contenedor_nav_hipermedia > .BloqueA {
+        height: 20px;
+    }
+
+
+
+
+} /* iPhone 6 Landscape */
+
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: iPhone 6 Portraid
+-------------------------------------------------------- */
+
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 667px) 
+and (orientation : portrait) { 
+
+   .container1 {
+        width: 100%;
+        height: 400px;
+    }
+    
+    .container2{
+        width: 340px;
+    }
+
+     .container2X{
+        width: 340px;
+        height: 40px;
+    }
+
+    .footerCodice {
+        width: 320px;
+    }
+
+    .footerCodice > .bloques{
+        font-size: 14px;
+    }
+
+    /* ----------------------------
+    /* ---- COMPARATIVA
+    -------------------------------*/
+    .container3_A{
+        height: 400px;
+    }
+    
+    .container3_B{
+        height: 400px;
+    }
+
+
+    .BloqueNombresComparativa{
+        font-size: 12px;   
+        display: none;
+    }
+
+    
+    .footerCodice  > .BloqueA{
+         font-size: 13px;
+    }
+
+    .footerCodice  > .BloqueA a{
+            font-size: 13px;
+    }
+
+    .footerCodice  > .BloqueB{
+         font-size: 13px;
+    }
+
+    .footerCodice  > .BloqueB a{
+         font-size: 13px;
+    }
+
+
+    /* ----------------------------
+    /* ---- HIPERMEDIA
+    -------------------------------*/
+
+    .contenedor_nav_hipermedia{
+        width: 300px;
+        height: 20px;
+        font-size: 18px;
+        bottom: 20px;
+    }
+
+    .contenedor_nav_hipermedia > .BloqueB {
+        height: 20px;
+    }
+
+    .contenedor_nav_hipermedia > .BloqueA {
+        height: 20px;
+    }
+
+
+
+}
+
+
+
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: 640px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:640px) {
+.ContenedorTituloInicio{
+    width: 300px;
+}
+
+
+.Seccion_notas > .menu > .BloqueA{
+    float: none;
+}
+
+.Seccion_notas > .menu > .BloqueB{
+    float: none;
+}
+
+.Seccion_notas > .menu > .BloqueC {
+    width: 50%;
+}
+
+
+.Notas_Listas > .contenedor >  .Bloque_txt > .titulo{
+    font-size: 18px;
+}
+
+.Notas_Listas > .contenedor >  .Bloque_txt > .descripcion{
+    font-size: 14px;
+}
+
+.Notas_Listas > .contenedor {
+    width: 100%;
+    height: auto;
+}
+
+
+.Notas_Listas > .contenedor > .Bloque_txt {
+    height: auto;
+    float: right;
+    padding-top: 10px;
+    margin-bottom: 10px;
+    width: 70%;
+}
+
+
+.Bloque_datos_hotspots{
+    font-size: 16px;
+    line-height: 22px;
+    margin-bottom: 20px;
+}
+
+
+.contenedor_flechas_D{
+    width: 220px;
+}
+
+ .contenedor_hotspots > .Contenedor_interior > .imagen_hotspot_D{
+    max-width: 220px;
+ }
+
+ .contenedor_hotspots > .Contenedor_interior > .imagen_hotspot_D img {
+    width: 100%;
+    height: auto;
+ }
+
+
+  .contenedor_hotspots > .Contenedor_interior > .imagen_hotspot_B {
+        max-width: 220px;
+}
+
+
+
+.ContenedorlogosEmpresas{
+    width: 500px;    
+}
+
+.ContenedorlogosEmpresas > .Bloques img{
+    width: 90%;
+    height: auto;
+}
+
+
+.ContenedorUpdateNotas > .subcontenedor > .InformacionDatos > form   .BloqueEUpdate{
+    display: none;
+}
+
+.ContenedorUpdateNotas > .subcontenedor > .InformacionDatos > form   .BloqueD{
+    display: none;
+}
+
+
+.ContenedorAddNotas > .subcontenedor > .InformacionDatos > form   .BloqueEUpdate{
+    display: none;
+}
+
+.ContenedorAddNotas > .subcontenedor > .InformacionDatos > form   .BloqueD{
+    display: none;
+}
+
+.ContenedorAddNotas > .subcontenedor > .InformacionDatos > form   .BloqueE{
+    display: none;
+}
+
+
+
+
+
+}/* 710px */
+
+
+/* --------------------------------------------------------
+/* ---- Responsive Landscape 640: Android 4.7" Grand Prime 
+-------------------------------------------------------- */
+
+@media screen 
+  and (device-width: 640px) 
+  and (device-height: 360px) 
+  and (orientation: landscape) {
+
+ 
+
+    .container1{
+        height: 180px;
+    }
+
+    .container2 {
+        width: 300px;
+    }
+
+     .container2X{
+        width: 300px;
+        height: 40px;
+    }
+
+    .footerCodice{
+        width: 300px;
+    }
+
+    .footerCodice > .bloques{
+        font-size: 10px;
+    }
+
+
+
+}/* 360px */
+ 
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: 568px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:568px) {
+
+
+.ContenedorlogosEmpresas{
+    width: 310px;    
+}
+
+.contenedor_mensaje_nota > .mensaje{
+    width: 80%;
+}
+
+
+.ContenedorDetalleNotas > .subcontenedor > .InformacionDatos > .BloqueD{
+    display: none;
+}
+
+.ContenedorDetalleNotas > .subcontenedor > .InformacionDatos >  .BloqueE_Detalle{
+    display: none;
+}
+
+
+.progress-bar {
+    width: 78%;
+}
+
+}/* 568px */
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: 400px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:460px) {
+
+.TitulosTextos{
+    font-size: 42px;
+}
+
+.textos h2{
+    font-size: 24px;
+}
+
+.BibliotecasSeccion > .menu {
+    font-size: 17px;
+}
+ 
+
+.BibliotecasSeccion > .Seccion-Entrevistas > .SubBloques > .Textos > .titulos{
+    font-size: 18px;
+}
+
+.BibliotecasSeccion > .Seccion-Entrevistas > .SubBloques > .Textos > .descripcion {
+    font-size: 14px;
+    line-height: 16px;
+}
+
+
+.Ensayos_Listas > a > .contenedor >  .Bloque_txt > .titulo{
+    font-size: 18px;
+}
+
+.Ensayos_Listas > a > .contenedor > .Bloque_txt > .descripcion {
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.btn_hipermedia{
+    right: 45%;
+}
+
+
+.ContenedorDetalleNotas > .subcontenedor > .EscritoUbicacion{
+    font-size: 10px;
+}
+
+
+.ContenedorDetalleNotas > .subcontenedor > .InformacionDatos > .BloqueB{
+    font-size: 10px;
+    padding-top: 13px;
+}
+
+.ContenedorDetalleNotas > .subcontenedor > .titulo_header > .Titulo{
+    width: 65%;
+}
+
+
+
+.ContenedorUpdateNotas > .subcontenedor > .InformacionDatos > form  .BloqueB{
+    width: 60%;
+}
+
+.ContenedorUpdateNotas > .subcontenedor > .InformacionDatos > form .habilitarContacto{
+    font-size: 14px;
+}
+
+.ContenedorUpdateNotas > .subcontenedor > .InformacionDatos > form  .BloqueB{
+    font-size: 15px;
+}
+
+
+
+.ContenedorAddNotas > .subcontenedor > .InformacionDatos > form  .BloqueB{
+    width: 60%;
+}
+
+.ContenedorAddNotas > .subcontenedor > .InformacionDatos > form .habilitarContacto{
+    font-size: 14px;
+}
+
+.ContenedorAddNotas > .subcontenedor > .InformacionDatos > form  .BloqueB{
+    font-size: 15px;
+}
+
+
+
+.contenedorNotFound > .subcontenedor > .logo {
+    width: 74%;
+    height: auto;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.contenedorNotFound > .subcontenedor{
+    width: 80%;
+ }
+
+ .contenedorNotFound > .subcontenedor > .titulo {
+    width: 100%;
+    height: auto;
+    font-family: Ubuntu-Light;
+    font-size: 18px;
+    color: #41403D;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.contenedorNotFound > .subcontenedor > .descripcion {
+    width: 100%;
+    height: auto;
+    font-family: "Roboto-Light";
+    font-size: 12px;
+    color: #000;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+
+
+}/* 420px */
+
+
+
+/* --------------------------------------------------------
+/* ---- Responsive Portrait: Android 4.7" Grand Prime 
+-------------------------------------------------------- */
+
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (orientation: portrait) {
+
+ 
+
+    .container1{
+        height: 380px;
+    }
+
+    .container2 {
+        width: 300px;
+    }
+
+    .container2X {
+        width: 300px;
+        height: 40px;
+    }
+
+    .footerCodice{
+        width: 300px;
+    }
+
+    .footerCodice > .bloques{
+        font-size: 14px;
+    }
+    
+
+    /* ----------------------------
+    /* ---- HIPERMEDIA
+    -------------------------------*/
+
+    .contenedor_nav_hipermedia{
+        width: 300px;
+        height: 20px;
+        font-size: 18px;
+        bottom: 20px;
+    }
+
+    .contenedor_nav_hipermedia > .BloqueB {
+        height: 20px;
+    }
+
+    .contenedor_nav_hipermedia > .BloqueA {
+        height: 20px;
+    }
+
+}/* 360px */}
+
+
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: iPhone 5 Portraid
+-------------------------------------------------------- */
+
+@media screen 
+  and (device-width: 320px) 
+  and (device-height: 568px) 
+  and (-webkit-device-pixel-ratio: 2) 
+  and (orientation: portrait) {
+
+
+    .container1{
+        height: 380px;
+    }
+
+    .container2 {
+        width: 300px;
+    }
+
+    .container2X {
+        width: 300px;
+        height: 40px;
+    }
+
+    .footerCodice{
+        width: 300px;
+    }
+
+    .footerCodice > .bloques{
+        font-size: 14px;
+    }
+    
+
+}
+
+ 
+
+ 
+/* --------------------------------------------------------
+/* ---- Responsive: 360px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:360px) { 
+
+    .btn_hipermedia{
+        right: 45%;
+    }
+
+  
+  .ContenedorAddNotas > .subcontenedor > .InformacionDatos > form .habilitarContacto .btn_check{
+    width: 40%;
+  }
+
+ 
+
+
+}/* 360px */
+
+
+/* --------------------------------------------------------
+/* ---- Responsive: 320px
+-------------------------------------------------------- */
+
+@media only screen and (max-width:320px) {
+
+.container1{
+        height: 380px;
+    }
+
+    .container2 {
+        width: 300px;
+    }
+
+    .container2X {
+        width: 300px;
+        height: 40px;
+    }
+
+    .footerCodice{
+        width: 300px;
+    }
+
+    .footerCodice > .bloques{
+        font-size: 14px;
+    }
+
+
+.Bloque_datos_hotspots{
+    font-size: 16px;
+    line-height: 22px;
+    margin-bottom: 20px;
+}
+
+.contenedor_hotspots > .Contenedor_interior > .contenido{
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.contenedor_hotspots > .Contenedor_interior > .contenido p{
+   font-size: 16px;
+    line-height: 20px; 
+}
+
+.BibliotecasSeccion > .Seccion-Entrevistas > .SubBloques > .Textos > .titulos {
+    font-size: 16px;
+}
+
+.BibliotecasSeccion > .Seccion-Entrevistas > .SubBloques > .Textos > .descripcion {
+    font-size: 12px;
+    line-height: 14px;
+}
+
+
+
+}/* 320px */

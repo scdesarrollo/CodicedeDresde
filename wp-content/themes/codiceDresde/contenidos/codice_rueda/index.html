@@ -1,0 +1,75 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title></title>
+	<meta name="description" content="">
+
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+	<link rel="stylesheet" href="css/main.css">
+
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+	<script src="js/vendor/modernizr-2.8.3.min.js"></script>
+    </head>
+    <body onload="init();" >
+
+	<div id="content">
+	         
+	    <div class="text-main"  > Sistemas Cronográficos</div>
+
+
+	    <div class="inputsCuentaLarga">
+		    <input type="text" id="kin"   max="19" value="0"  />
+		    <input type="text" id="uinal"   max="17" value="0"  />
+		    <input type="text" id="tun"    max="19" value="0" />
+		    <input type="text" id="katun"  max="19" value="0" />
+		    <input type="text" id="baktun"   max="19" value="0"  />
+	    </div>
+
+	    <div class="inputsGregoriano">
+		    <input type="text" id="d"   max="31"  value="0" />
+		    <input type="text" id="m"   max="12"  value="0" />
+		    <input type="text" id="y"    max="4772" value="0"  />
+	    </div>
+
+
+
+	    <div class="gregoriano_titulo">
+		Fecha en calendario maya
+	    </div>
+
+	    <div class="cuenta_larga">
+			Fecha en calendario gregoriano
+	    </div>
+
+	    <div class="texto_gregoriano">
+		  Fecha en la cuenta larga Maya
+	    </div>
+
+	    <div class="ayuda"></div>
+
+	    <div class="figura">
+	    </div>
+	    <canvas id="canvas" width="1280" height="800"></canvas>
+
+	    <div id="container_bar"></div>
+
+	    <div id="help_image"><img src="img/ayuda.png" /></div>
+	</div>
+	<script
+	 src="https://code.jquery.com/jquery-3.2.1.slim.js"
+  integrity="sha256-tA8y0XqiwnpwmOIl3SGAcFl2RvxHjA8qp0+1uCGmRmg="
+  crossorigin="anonymous"></script>
+
+	<script src="https://code.createjs.com/easeljs-0.8.2.min.js"></script>
+	<script src="https://code.createjs.com/createjs-2015.11.26.min.js"></script>
+
+	<script src="js/Impetus.js"></script>
+	<script src="js/main.js"></script>
+    </body>
+</html>

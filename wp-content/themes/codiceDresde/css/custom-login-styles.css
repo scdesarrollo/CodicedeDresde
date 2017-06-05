@@ -1,0 +1,215 @@
+
+/* --------------------------------------------------------
+/* ---- FUENTES 
+-------------------------------------------------------- */
+
+@font-face {
+    font-family: "Philosopher-Bold";
+    src: url(../../fuentes/Philosopher-Bold.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Ubuntu-Light";
+    src: url(../fuentes/Ubuntu/Ubuntu-Light.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Ubuntu-Medium";
+    src: url(../fuentes/Ubuntu/Ubuntu-Medium.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Ubuntu-Medium-Italic";
+    src: url(../fuentes/Ubuntu/Ubuntu-MediumItalic.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Ubuntu-Italic";
+    src: url(../fuentes/Ubuntu/Ubuntu-Italic.ttf) format("truetype");
+}
+
+
+@font-face {
+    font-family: "Ubuntu-Bold";
+    src: url(../fuentes/Ubuntu/Ubuntu-Bold.ttf) format("truetype");
+}
+
+
+
+@font-face {
+    font-family: "Roboto-Light";
+    src: url(../fuentes/Roboto/Roboto-Light.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Roboto-Italic";
+    src: url(../fuentes/Roboto/Roboto-Italic.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Roboto-Regular";
+    src: url(../fuentes/Roboto/Roboto-Regular.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "Roboto-Medium";
+    src: url(../fuentes/Roboto/Roboto-Medium.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: "LibreBaskerville-Bold";
+    src: url(../fuentes/libre-baskerville/LibreBaskerville-Bold.otf) format("truetype");
+}
+
+#login {
+    width: 340px !important;    
+}
+
+body.login {
+ background-color: #ffffef;
+ font-family: Ubuntu-Light;
+ font-size: 14px !important;
+}
+
+.login form {
+ margin-top: 0px !important;
+ background: #E1E2D7 !important;
+}
+
+
+.login form .input,.login input[type=text],.login form input[type=checkbox] {
+ background: #fff;
+ border: 1px solid #b7b7b7;
+ padding: 5px;
+}
+ 
+.login form .input:hover,.login form .input:focus,.login input[type=text]:hover,.login input[type=text]:focus,.login form input[type=checkbox]:hover,.login form input[type=checkbox]:focus {
+ background: #AAAAA0 !important;
+ outline: none !important;
+ font-family: Ubuntu-Light !important;
+}
+
+body.login div#login form#loginform input#wp-submit {
+
+ background: #CFD0C7;
+ outline: none !important;
+ border: none !important;
+ padding: 0 25px !important;
+ text-align: center !important;
+ font-size: 13px !important;
+ color: #5F5F5A;
+ box-shadow: none !important;
+ text-shadow: none !important;
+ font-family: Ubuntu-Bold !important;
+ font-size: 12px !important; 
+}
+
+
+.login label {
+    color: #5F5F5A !important;
+    font-size: 12px !important;
+    font-family: Ubuntu-Italic;
+
+}
+
+.login #nav a:hover {
+    color: #52BAAF !important;
+}
+
+.login #backtoblog a:hover, .login #nav a:hover {
+    color: #52BAAF !important;
+}
+
+body.login div#login h1 a{
+    width: 250px !important;
+    height: 100px !important;
+    background-size: 250px 100px !important; 
+    margin: 0 auto 0px !important;
+    margin-bottom: 20px !important;
+}
+
+
+.login  .login .message{
+	background-color: #E1E2D7 !important;
+}
+ 
+input:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0px 1000px #A9AA9D inset !important;
+}
+
+
+.login form .input, .login form input[type=checkbox], .login input[type=text] {
+    background-color: #A9AA9D !important;
+    font-family: Ubuntu-Light !important;
+}
+
+.input:focus{
+  outline-color: transparent !important;
+  outline-style: none !important;
+}
+ 
+
+#login_error, .message {
+    background-color: #ffffef !important;
+    box-shadow: none !important;
+    border-left-color: transparent !important;
+    text-align: center !important;
+} 
+
+.message{
+    text-align: justify !important;
+}
+
+#login_error a { 
+    text-decoration: none !important;
+    color: #53BBB0 !important;
+    font-size: 13px !important;
+}
+
+.login #nav {
+    display: none !important;
+}
+
+.btn_cont{
+    width: 50% !important;
+    margin: 0 auto !important;
+}
+.btn_nueva_cont{
+    background: #CFCFC5 !important;
+    text-shadow: none !important;
+    box-shadow: none !important;
+    border-color: #CFCFC5 !important;
+    color: #5F5F5B !important;
+    font-family: Ubuntu-Bold !important;
+    float: none !important;
+    margin: 0 auto !important
+}
+
+.btn_nueva_cont:hover{
+    color: #FFF !important;
+    background: #53BBB0 !important;
+}
+
+
+
+.btn_iniciar_sesion_cont{
+    width: 50% !important;
+    margin: 0 auto !important;
+}
+
+ 
+.btn_iniciar_sesion{
+     background: #CFD0C7 !important;
+    text-shadow: none !important;
+    box-shadow: none !important;
+    border-color: #CFCFC5 !important;
+    color: #5F5F5B !important;
+    font-family: Ubuntu-Bold !important;
+    float: none !important;
+    margin: 0 auto !important
+}
+
+.btn_iniciar_sesion:hover {
+    color: #FFF !important;
+    background: #53BBB0 !important;
+}
